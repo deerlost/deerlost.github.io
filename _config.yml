@@ -81,6 +81,6 @@ theme: next
 deploy:
   type: git
   repo: http://github.com/deerlost/deerlost.github.io.git
-  branch: gh-pages
+  branch: master
   root: /
   permalink: :year/:month/:day/:title/
