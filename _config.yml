@@ -79,4 +79,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: http://github.com/deerlost/deerlost.github.io
+  branch: gh-pages
+  root: /
+  permalink: :year/:month/:day/:title/
