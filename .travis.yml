@@ -26,7 +26,7 @@ after_script:
 branches:
   only:
     - blog-source
-    
+
 env:
  global:
    - GH_REF: github.com/deerlost/deerlost.github.io.git

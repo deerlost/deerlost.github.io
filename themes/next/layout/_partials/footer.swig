@@ -5,7 +5,7 @@
 #}&copy; {% if theme.footer.since and theme.footer.since != current %}{{ theme.footer.since }} &mdash; {% endif %}{#
 #}<span itemprop="copyrightYear">{{ current }}</span>
   <span class="with-love">
-    <i class="fa fa-headphones" aria-hidden="true"></i>
+   <i class="fa fa-headphones" aria-hidden="true"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
 	
@@ -41,7 +41,7 @@
 {% if theme.footer.powered and theme.footer.theme.enable %}
   <span class="post-meta-divider">|</span>
 {% endif %}
-
+<!--
 {% if theme.footer.theme.enable %}
   <div class="theme-info">{#
   #}{{ __('footer.theme') }} &mdash; {#
@@ -56,6 +56,7 @@
   #}{{ theme.footer.custom_text }}{#
 #}</div>
 {% endif %}
+-->
 <div class="theme-info">
   <div class="powered-by"></div>
   <span class="post-count">博客全站共{{ totalcount(site) }}字</span>

@@ -11,6 +11,7 @@
     {% if theme.sidebar.onmobile %}
       <div id="sidebar-dimmer"></div>
     {% endif %}
+
     <div class="sidebar-inner">
 
       {% set display_toc = is_post and theme.toc.enable or is_page and theme.toc.enable %}
@@ -42,8 +43,8 @@
               #}{{ theme.description }}{#
             #}{% endif %}{#
             #}</p>
+			
           </div>
-
           <nav class="site-state motion-element">
 
             {% if config.archive_dir != '/' and site.posts.length > 0 %}
@@ -169,7 +170,7 @@
           {% endif %}
         </div>
       {% endif %}
-
+	<div> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=300 height=90 src="//music.163.com/outchain/player?type=0&id=2391221071&auto=1&height=90"></iframe></div>
     </div>
   </aside>
 {% endmacro %}

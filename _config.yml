@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Lapuda
 subtitle:
 description:
 keywords:
-author: John Doe
+author: wyoung
 avatar: ../img/author.jpg
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://deerlost.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -84,3 +84,9 @@ deploy:
   branch: master
   root: /
   permalink: :year/:month/:day/:title/
+ 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
