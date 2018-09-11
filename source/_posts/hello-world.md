@@ -9,38 +9,10 @@ top: 100
 copyright: ture
 
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+**wyoung**
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+***人是一颗会思考的芦苇。***
+## 前言 ##
+凌晨六点，窗外的鸟鸣声让我处在一种半睡半醒的状态。清晰的知道自己还在睡着，又清晰的知道自己已经醒来。大概梦是美的，因为那时心情愉悦。Blog的框架搭好已经有很长时间了，一直没有动手写，除了平时工作忙和闲时懒之外，不知道该写些什么大概是最主要的原因。
+刚开始是准备写一些技术类的文章，然而平时遇到的一些困难，解决以后，已经上传到[Note](https:/github.com/deerlost/note.git)里面，再重新写一遍实在是浪费时间。考虑到这个Blog的初衷确实是为了记录平时遇到的技术难题，所以一些技术问题还是会有所提到，估计会写一些概括性或指导入门性质的文章。具体的实现会上传的[Note](https:/github.com/deerlost/note.git)里面。
+此外，随着阅历的增长，越来越感到自己的浅薄无知。走的路，看的书，和朋友或前辈的聊天都会给自己带来不少的思考。都说人生有「看山是山，看山不是山，看山还是山」的三层境界，此间的增长也是文章的重点。
